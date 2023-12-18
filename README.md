@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/logo_color/blue_250.png" width="150">
+  <img src="[logo](https://raw.githubusercontent.com/pocketnetteam/pocketnet.gui/master/img/logo_color/blue_250.png)" width="150">
 </p>
 
 <h1 align="center">Bastyon Desktop Browser</h1>
